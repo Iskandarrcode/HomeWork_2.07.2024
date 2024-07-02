@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975890631107",
+    "project_id": "product-home-f8101",
+    "storage_bucket": "product-home-f8101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975890631107:android:7cb8a7051ea46df3ec5576",
+        "android_client_info": {
+          "package_name": "com.example.online_shop_animation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHKlj0tHlTYxgaACLryNgL2Eq9AqcTmTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
